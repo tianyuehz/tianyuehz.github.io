@@ -1,4 +1,4 @@
-<<<<<<< HEAD:hydejack-starter-kit-9.1.4/README.md
+
 # Hydejack Starter Kit
 
 A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.com/).
@@ -21,4 +21,3 @@ A quicker, cleaner way to get started blogging with [Hydejack](https://hydejack.
 [download]: https://github.com/hydecorp/hydejack-starter-kit/archive/master.zip
 =======
 
->>>>>>> 79ae9e70b1c32a9f600425d77b5648daca66f2ed:README.md
